@@ -1,0 +1,12 @@
+# Üreteçler 
+
+Üreteçler (generators), verileri tek tek üreten ve hafızada büyük yer kaplamayan özel fonksiyonlardır. Onları normal fonksiyonlardan ayıran şey, bir değer döndürmek yerine, her defasında bir değer üretmeleridir.
+
+Haydi bir meyve ağacı düşünelim. Bu ağaçta bir sürü elma var. Ama hepsini aynı anda toplamak yerine, sadece birkaç elma topluyorsunuz ve sonra bir daha gidip birkaç elma daha alıyorsunuz. Bu sayede, ağaçtaki tüm elmaları toplamak için tek seferde tüm elmaları taşımak zorunda kalmazsınız.
+
+Generators da böyle çalışır. Bir üreteç fonksiyonunu çağırdığınızda, fonksiyon çalışmaya başlar ve değerleri tek tek üretir. Her defasında bir değer üretilir ve hafızada çok fazla yer kaplamaz.
+
+"yield" anahtar kelimesi, üretecin bir değer üretmesini sağlar. next() işlevi ile üreteçten bir sonraki değeri alırız. 
+
+
+Generators, büyük veri kümeleri üzerinde çalışırken çok kullanışlıdır. Özellikle çok büyük verilerle uğraşırken, tüm veriyi hafızada tutmak yerine sadece ihtiyacınız olan veriyi üreteçlerle elde edebilirsiniz.

@@ -1,0 +1,7 @@
+Python'da bir decorator, bir işlevin etrafına koyabileceğiniz özel bir sarıcı gibi düşünebilirsiniz. Bir hediye paketini saran kağıt gibi, decorator da sarılan işlevin davranışını değiştirir. 
+
+Hayal edin bir robotunuz (işleviniz) odanızı temizlemek gibi belirli bir görevi yapabiliyor. Ancak bazen robotun temizlemeden önce veya sonra ekstra bir şey yapmasını istiyorsunuz, mesela "Merhaba" demesini veya işi bitince "İyi iş!" demesini.
+
+Bir decorator, bu robotunuzun yanına ekleyeceğiniz küçük bir yardımcı gibidir. Robotunuza temizleme işinden önce veya sonra yapmasını istediğiniz ekstra şeyi söyler.
+
+Python'da decoratorları @decorator_adi sözdizimiyle oluşturursunuz. Decorator'ı bir işlev olarak tanımlarsınız ve sonra istediğiniz işlevin üzerine decorator'ın adını koyarsınız.

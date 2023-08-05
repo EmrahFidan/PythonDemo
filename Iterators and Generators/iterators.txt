@@ -1,0 +1,18 @@
+# Yineleyiciler 
+
+Haydi hayal edelim ki seninle birlikte çok uzun bir hikaye kitabı okuyoruz. Kitabın her sayfasında bir hikaye var ve sen, bu hikayeleri okurken sayfalar arasında geçiş yapıyorsun. İşte "yineleyiciler" de tam olarak böyle çalışıyor!
+
+Yineleyiciler (iterators), bir sırayı takip ederek elemanları birer birer almak için kullanılan sihirli araçlardır. Düşünceyi anlamak için kitap örneğine geri dönelim:
+
+Kitabın içinde sayfalar bir sıraya dizilmiştir. Sen, hikayeleri okurken şu adımları takip ediyorsun:
+
+Başlangıç sayfasına gidersin.
+Bir hikaye okursun.
+Bir sonraki sayfaya geçersin.
+Yeni sayfada başka bir hikaye bulunur ve onu da okursun.
+Bu şekilde kitaptaki tüm hikayeleri okursun.
+Yineleyiciler de bu şekilde çalışır. Bir veri kümesinde elemanlar sıralıdır ve yineleyici sayesinde bu elemanları birer birer alabiliriz.
+
+iter() işlevi, yineleyicimizi oluşturur ve next() işlevi, yineleyiciden bir sonraki elemanı alır.
+
+Yineleyiciler, büyük veri kümeleriyle çalışırken hafızadan tasarruf etmeye yardımcı olur. Örneğin, binlerce hikayenin olduğu devasa bir kitap koleksiyonu düşünün. Tüm hikayeleri hafızaya yüklemek yerine, yineleyiciler sayesinde hikayeleri tek tek alabilir ve böylece hafızayı daha verimli kullanabilirsiniz.
