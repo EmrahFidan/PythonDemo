@@ -27,12 +27,11 @@ Being so easy to write means a lot of mistakes can be made and I made a lot of l
 
 Libraries should be used without losing much time with syntax, as we can use Python in so many areas that we should proceed faster.
 
-<h2 style="color: #4cc9f0;"> Feedback </h1>
 
 If you have any feedback, please contact me at: emrahfdn.work@gmail.com
 
   
-## Yazarlar ve Teşekkür
+## Software Developers
 
 - [@EmrahFidan](https://github.com/EmrahFidan)  for code.
 
