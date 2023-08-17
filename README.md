@@ -1,5 +1,7 @@
 
-![Python](https://img.shields.io/badge/Language-Python-yellow.svg)<a class="header-badge" target="_blank" href="https://www.linkedin.com/in/emrah-fidann/">
+![Python](https://img.shields.io/badge/Language-Python-yellow.svg)
+[![Developed with PyCharm](https://img.shields.io/badge/Developed%20with-PyCharm-blue)](https://www.jetbrains.com/pycharm/)
+<a class="header-badge" target="_blank" href="https://www.linkedin.com/in/emrah-fidann/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
 
