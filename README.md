@@ -13,7 +13,7 @@
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
     <img alt="PyCharm" src="https://img.shields.io/badge/Developed%20with-PyCharm-lightblue"/>
 </a>
-  <a class="header-badge" target="_blank" href="https://github.com/EmrahFidan/educationApp/blob/main/LICENSE">
+  <a class="header-badge" target="_blank" href="https://github.com/EmrahFidan/PythonDemo/blob/main/LICENSE">
     <img alt="License" src="https://img.shields.io/github/license/PritamSarbajna/tourism-website?color=darkblue"/>
   </a>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/emrah-fidann/" >
