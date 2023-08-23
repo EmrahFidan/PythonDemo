@@ -1,14 +1,26 @@
+<h1 align="center">
+<br>
+🐍  Python Syntax LC 
+</h1>
 
-![Python](https://img.shields.io/badge/Language-Python-yellow.svg)
-[![Developed with PyCharm](https://img.shields.io/badge/Developed%20with-PyCharm-blue)](https://www.jetbrains.com/pycharm/)
-<a class="header-badge" target="_blank" href="https://www.linkedin.com/in/emrah-fidann/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+<h3 align="center">
+  <a class="header-badge" target="_blank" href="https://github.com/EmrahFidan">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-white.svg?logo=github&style=social"/>
   </a>
-
-
-
-<h1 style="color: #4cc9f0;">🐍  Python Syntax LC </h1>
-
+  <a href="https://www.python.org/" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Language-Python-yellow.svg"/>
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img alt="PyCharm" src="https://img.shields.io/badge/Developed%20with-PyCharm-lightblue"/>
+</a>
+  <a class="header-badge" target="_blank" href="https://github.com/EmrahFidan/educationApp/blob/main/LICENSE">
+    <img alt="License" src="https://img.shields.io/github/license/PritamSarbajna/tourism-website?color=darkblue"/>
+  </a>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/emrah-fidann/" >
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&style=social"/>
+  </a>
+</h3>
+<br>
 
 This project is the project folder I use to learn python syntax, with basic and intermediate project examples.
 
