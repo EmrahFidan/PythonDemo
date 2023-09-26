@@ -1,3 +1,4 @@
+
 <h1 align="center">
 <br>
 🐍  Python Syntax LC 
@@ -7,11 +8,8 @@
   <a class="header-badge" target="_blank" href="https://github.com/EmrahFidan">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-white.svg?logo=github&style=social"/>
   </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Language-Python-yellow.svg"/>
-  </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img alt="PyCharm" src="https://img.shields.io/badge/Developed%20with-PyCharm-lightblue"/>
+    <img alt="PyCharm" src="https://img.shields.io/badge/Developed%20with-PyCharm-darkgreen"/>
 </a>
   <a class="header-badge" target="_blank" href="https://github.com/EmrahFidan/PythonDemo/blob/main/LICENSE">
     <img alt="License" src="https://img.shields.io/github/license/PritamSarbajna/tourism-website?color=darkblue"/>
@@ -22,17 +20,26 @@
 </h3>
 <br>
 
-This project is the project folder I use to learn python syntax, with basic and intermediate project examples.
+This project is the project folder that I am using to learn the Python syntax, with examples of basic and intermediate projects.
 
 
-<h2 style="color: #4cc9f0;"> Features </h1>
+<h2 style="color: #ffa500;"> Features </h1>
+
+Some of the key features of this project include the following:
+
+- Clean code: The project has paid particular attention to writing clean and readable code. The code has been developed with comprehensibility and maintainability in mind.
+- Learning Code (LC): This project has been designed as a resource for those who want to learn the software development process. The code examples and instructions used in the project are designed to support your learning process.
+- Udemy Course Tracks: During the development of this project, the Udemy course "Python from Zero to Advanced" was used. You can access the course [here] (https://www.udemy.com/course/sifirdan-ileri-seviyeye-python/).
 
 
-- Python
+<h2>Installation of the project</h2>
 
-- Clean Code
-- LC -> Learnig Code 
-- Udemy Course I was injured: https://www.udemy.com/course/sifirdan-ileri-seviyeye-python/
+<pre>
+<code>
+git clone https://github.com/EmrahFidan/PythonDemo.git
+</code>
+</pre>
+
 
 
 
@@ -56,12 +63,6 @@ This project is the project folder I use to learn python syntax, with basic and 
 
 
 
-
-
-
-
-
-
 <h2 style="color: #4cc9f0;"> Lessons Learned </h1>
 
 After C, syntax came very easily and the biggest reason it is the most popular language is that I think it is so easily written.
@@ -70,12 +71,7 @@ Being so easy to write means a lot of mistakes can be made and I made a lot of l
 
 Libraries should be used without losing much time with syntax, as we can use Python in so many areas that we should proceed faster.
 
+<h2 style="color: #ffa500;">Feedback</h1>
 
-If you have any feedback, please contact me at: emrahfdn.work@gmail.com
-
-  
-<h2 style="color: #4cc9f0;"> Software Developers </h1>
-
-- [@EmrahFidan](https://github.com/EmrahFidan)  for code.
-
+If you have any feedback, please contact us at emrahfdn.work@gmail.com.
   
